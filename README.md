@@ -168,7 +168,7 @@ Currently Building:
 </a>
 
 <a href="mailto:vichareganesh48@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/byte-AbhijitVichare">
