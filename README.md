@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**byte-AbhijitVichare/byte-AbhijitVichare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ BYTE OS v1.0
 
-Here are some ideas to get you started:
+```bash
+Last login: Today
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+byte@github:~$ ./boot.sh
+
+Initializing profile...
+
+Loading Python............. ██████████ 100%
+Loading SQL................ ██████████ 100%
+Loading Machine Learning... ██████████ 100%
+Loading Data Analytics..... ██████████ 100%
+
+System Ready ✔
+```
+
+### Data Analyst • Machine Learning • AI Developer
+
+</div>
+
+---
+
+```bash
+byte@github:~$ whoami
+```
+
+```yaml
+Name: Abhijit Vichare
+
+Role:
+  - Data Analyst
+  - Machine Learning Engineer
+
+Education:
+  - B.Sc. Data Science
+
+Location:
+  - Mumbai, India
+
+Status:
+  - Open To Work
+
+Currently Building:
+  - AI Business Health Scorecard
+  - D2C Funnel Simulator
+  - Portfolio Website
+```
