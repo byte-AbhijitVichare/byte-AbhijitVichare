@@ -117,6 +117,36 @@ Currently Building:
 
 ---
 
+# 📊 byte@github:~$ system-monitor
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=byte-AbhijitVichare&show_icons=true&theme=chartreuse-dark"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byte-AbhijitVichare&layout=compact&theme=chartreuse-dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=byte-AbhijitVichare&theme=chartreuse-dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=byte-AbhijitVichare&theme=github-dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=byte-AbhijitVichare&theme=matrix"/>
+
+</p>
+
+---
+
 # 📊 byte@github:~$ github-stats
 
 <p align="center">
